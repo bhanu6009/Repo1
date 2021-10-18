@@ -1,2 +1,6 @@
 Hello how are you
 is it everything fine?
+modified in branch1
+Apple
+orange
+Lemon
